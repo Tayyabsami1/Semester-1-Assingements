@@ -1,7 +1,4 @@
-/*
-Name    : Tayyab Kamran
-Roll no : 22-I-2505
-*/
+
 #include<iostream>
 
 using namespace std;
